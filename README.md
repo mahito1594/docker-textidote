@@ -36,3 +36,6 @@ For more detail, please refer to the [README of TeXtidote](https://github.com/sy
 - [Docker](https://www.docker.com)
 - [adoptopenjdk/openjdk8](https://hub.docker.com/r/adoptopenjdk/openjdk8)
 - [TeXtidote](https://github.com/sylvainhalle/textidote): Written by Sylvain Hallé, released under GNU General Public License 3.
+
+## LICENSE
+Apache 2.0 Licensed, see [LICENSE](./LICENSE) for full detail.
